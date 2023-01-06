@@ -15,3 +15,4 @@ Mielestäni visuaalisen analyysin käyttämisellä data-analyysissä tai päät�
 - Tehostettu ongelmanratkaisukyky: Visualisoinnit voivat auttaa tunnistamaan ongelmia ja mahdollisia ratkaisuja nopeammin, ja niistä voi olla hyötyä myös ideoiden pohtimisessa ja uusien ideoiden luomisessa.
 
 Kurkkaathan sekä excel -tiedoston, että PowerBi analyysin, jotta idea on selkeä!
+![esikatselukuva2](https://user-images.githubusercontent.com/120338876/211095622-fcae0e49-205e-4135-822f-24af09400f12.jpg)
